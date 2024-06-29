@@ -29,15 +29,35 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/guides/example-guide/"
+  name = "About HFS"
+  url = "docs/about-hfs/what-is-hard-flaccid-syndrome"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "News and Updates"
+  url = "blog/news-and-updates/"
+  weight = 20
+
+[[main]]
+  name = "Articles"
+  url = "blog/articles/"
   weight = 30
+
+[[main]]
+  name = "Resources"
+  url = "hfs-resources/for-who/patients"
+  weight = 40
+
+[[main]]
+  name = "FAQ"
+  url = "faq"
+  weight = 50
+
+[[main]]
+  name = "Connect"
+  url = "hfs-connect/info/about-us/"
+  weight = 60
 
 # [[social]]
 #   name = "Twitter"
@@ -51,31 +71,24 @@
 #   url = "https://getdoks.org/chat"
 #   weight = 20
 
-[[social]]
-  name = "GitHub"
-  pre = '<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path></svg>'
-  url = "https://github.com/gethyas/doks"
-  post = "v0.1.0"
-  weight = 30
-
-# [[sidebar_docs]]
-#   name = "Guides"
-#   pageRef = "/docs/guides"
-#   weight = 10
-# 
-# [[sidebar_docs]]
-#   name = "Reference"
-#   pageRef = "/docs/reference"
-#   weight = 20
-# 
-# [[sidebar_docs]]
-#   name = "Resources"
-#   pageRef = "/docs/resources"
-#   weight = 30
+#  [[sidebar_about-hfs]]
+#    name = "Guides"
+#    pageRef = "/about-hfs/guides"
+#    weight = 10
+  
+#  [[sidebar_about-hfs]]
+#    name = "Reference"
+#    pageRef = "/about-hfs/reference"
+#    weight = 20
+  
+#  [[sidebar_about-hfs]]
+#    name = "Resources"
+#    pageRef = "/about-hfs/resources"
+#    weight = 30
 
 [[footer]]
-  name = "Privacy Policy"
-  url = "/privacy/"
+  name = "Home"
+  url = "/Home/"
   weight = 10
 
 # [[footer]]

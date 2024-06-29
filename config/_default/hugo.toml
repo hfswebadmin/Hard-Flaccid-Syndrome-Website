@@ -1,4 +1,4 @@
-title = "My Docs"
+title = "Hard Flaccid Syndrome"
 baseurl = "http://localhost/"
 canonifyURLs = false
 disableAliases = true
@@ -16,8 +16,6 @@ summarylength = 20 # 70 (default)
 defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
-
-copyRight = "Copyright (c) 2020-2024 Hyas"
 
 [build.buildStats]
   enable = true
@@ -57,8 +55,12 @@ copyRight = "Copyright (c) 2020-2024 Hyas"
   tag = "tags"
 
 [permalinks]
-  blog = "/blog/:slug/"
-  docs = "/docs/:sections[1:]/:slug/"
+  about-hfs = "/about-hfs/:sections[1:]/:slug/"
+  news-and-updates = "/news-and-updates/:slug/"
+  articles = "/articles/:slug/"
+  resources = "/hfs-resources/:slug/"
+  faq = "/faq/:slug/"
+  connect = "/hfs-connect/:slug/"
 # docs = "/docs/1.0/:sections[1:]/:slug/"
 
 [minify.tdewolff.html]

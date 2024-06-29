@@ -1,13 +1,10 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "Hard Flaccid Syndrome"
+description = "Welcome to the Hard Flaccid Syndrome website!"
 images = ["cover.png"]
 
 # mainSections
 mainSections = ["docs"]
-
-[social]
-  twitter = "getdoks"
 
 # Doks (@hyas/doks-core)
 [doks]
@@ -44,7 +41,7 @@ mainSections = ["docs"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["docs", "hfs-resources", "hfs-connect", "faq"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false

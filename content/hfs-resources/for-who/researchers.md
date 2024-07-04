@@ -14,5 +14,51 @@ seo:
   noindex: false # false (default) or true
 ---
 
-_*work in progress*_
+## Existing Scientific Literature
+
+- Abdessater, M., Kanbar, A., Akakpo, W., & Beley, S. (2020). [Hard flaccid syndrome: State of current knowledge](https://doi.org/10.1186/s12610-020-00105-5). Basic and Clinical Andrology, 30(1).
+
+- Billis, E., Kontogiannis, S., Tsounakos, S., Konstantinidou, E., & Giannitsas, K. (2023). Hard Flaccid Syndrome: A Biopsychosocial Management Approach with Emphasis on Pain Management, Exercise Therapy, and Education. Healthcare (Basel, Switzerland), 11(20), 2793. https://doi.org/10.3390/healthcare1120279
+
+- Giammusso, B., Gattuso, U., Vanaclocha, V., Saiz-Sapena, N., Falsaperla, M., Burrello, M., & Motta, M. (2005). Percutaneous lumbar sympathectomy in the treatment of erectile dysfunction secondary to cavernous adrenergic hypertone: initial results of an original technique. Archivio italiano di urologia, andrologia, 77(1), 5–9.
+
+- Goldstein, I., Komisaruk, B., Goldstein, S., & Yee, A. (2024). (149) prevalence of lumbosacral annular tears in individuals with hard flaccid syndrome. The Journal of Sexual Medicine, 21(Supplement_1). https://doi.org/10.1093/jsxmed/qdae001.140
+
+- Goldstein, I., Yee, A., & Komisaruk, B. (2023). Hard Flaccid Syndrome Proposed to Be Secondary to Pathological Activation of a Pelvic/Pudendal-Hypogastric Reflex; AUA News (May 2023).
+
+- Gul, M., Fode, M., Urkmez, A., Capogrosso, P., Falcone, M., Sarikaya, S., Sokolakis, I., Morgado, A., Morozov, A., Albersen, M., Russo, G. I., & Serefoglu, E. C. (2024). A clinical guide to rare male sexual disorders. Nature Reviews Urology, 21(1), 35–49. https://doi.org/10.1038/s41585-023-00803-5
+
+- Gul, M., Huynh, L. M., El-Khatib, F. M., & Yafi, F. A., & Serefoglu, E. C. (2020). A qualitative analysis of Internet forum discussions on hard flaccid syndrome. Int J Impot Res, 32(5), 503-509.
+
+- Gul, M., Towe, M., Yafi, F. A., & Serefoglu, E. C. (2020). Hard flaccid syndrome: initial report of four cases. Int J Impot Res, 32(2), 176-179.
+
+- Hammad, M. A. M., Barham, D. W., Loeb, C., Serefoglu, E. C., & Yafi, F. A. (2023). (432) Efficacy of Low-Intensity Shockwave Therapy on Hard Flaccid Syndrome: Initial Report of Three Cases. The Journal of Sexual Medicine, 20(Supplement_1), May 2023. https://doi.org/10.1093/jsxmed/qdad060.405
+
+- Hughes, K., Parnham, A., & Lucky, M. (2018). Hard flaccid syndrome. Urol News, 23(1).
+
+- Nico, E., Rubin, R., & Trosch, L. (2022). Successful Treatment of Hard Flaccid Syndrome: A case report. J Sex Med, 19(4), S103.
+
+- Niedenfuehr, J., & Stevens, D. M. (2023). A scoping review: sexual activity and functioning before and after surgery for femoroacetabular impingement (FAI), labral tears, and hip dysplasia. Sexual Medicine Reviews, 11(4), 349–358. https://doi.org/10.1093/sxmrev/qead036
+
+- Niedenfuehr, J., & Stevens, D. M. (2024). Hard flaccid syndrome symptoms, comorbidities, and self-reported efficacy and satisfaction of treatments: a cross-sectional survey. International journal of impotence research, 10.1038/s41443-024-00853-2. Advance online publication. https://doi.org/10.1038/s41443-024-00853-2
+
+- Ocampo Flórez, G. M., Carvajal Obando, A., & García-Perdomo, H. A. (2022). Association between partial thrombosis of the corpus cavernosum, partial priapism, and hard flaccid syndrome: A scoping review. Andrology, 10(5), 844–851. https://doi.org/10.1111/andr.13190
+
+- Reed-Maldonado, A. B., & Lue, T. F. (2016). Syndrome of erectile dysfunction in young men. Translational Andrology and Urology, 5(3), 438–443. https://doi.org/10.21037/tau.2016.03.02
+
+### Literature relevant to HFS, though not explicilty about HFS
+
+- Allen, K., Wise, N., Frangos, E., & Komisaruk, B. (2020). Male urogenital system mapped onto the sensory cortex: Functional magnetic resonance imaging evidence. The Journal of Sexual Medicine, 17(4), 603–613. https://doi.org/10.1016/j.jsxm.2019.12.007
+
+- Belew, D., Klaassen, Z., & Lewis, R. W. (2015). Intracavernosal injection for the diagnosis, evaluation, and treatment of erectile dysfunction: A Review. Sexual Medicine Reviews, 3(1), 11–23. https://doi.org/10.1002/smrj.35
+
+- de Groat, W. C., & Lalley, P. M. (1972). Reflex firing in the lumbar sympathetic outflow to activation of vesical afferent fibres. The Journal of Physiology, 226(2), 289–309. https://doi.org/10.1113/jphysiol.1972.sp009985
+
+- Goldstein, I., Komisaruk, B. R., Pukall, C. F., Kim, N. N., Goldstein, A. T., Goldstein, S. W., Hartzell-Cushanick, R., Kellogg-Spadt, S., Kim, C. W., Jackowich, R. A., Parish, S. J., Patterson, A., Peters, K. M., & Pfaus, J. G. (2021). International Society for the Study of Women’s Sexual Health (ISSWSH) review of Epidemiology and pathophysiology, and a consensus nomenclature and process of care for the management of persistent genital arousal disorder/genito-pelvic dysesthesia (PGAD/GPD). The Journal of Sexual Medicine, 18(4), 665–697. https://doi.org/10.1016/j.jsxm.2021.01.172
+
+- Glina, S., Shindel, A., Eardley, I., & Ghanem, H. (2008). Cavernosal alpha-blockade: A new technique for investigating and treating erectile impotence by GS brindley. The Journal of Sexual Medicine, 5(8), 1791–1794. https://doi.org/10.1111/j.1743-6109.2008.00954.x
+
+- Kaplan, S. A., Reis, R. B., Kohn, I. J., Shabsigh, R., & Te, A. E. (1998). Combination therapy using oral alpha-blockers and intracavernosal injection in men with erectile dysfunction. Urology, 52(5), 739–743. https://doi.org/10.1016/s0090-4295(98)00388-4
+
+- Kim, C. W., Goldstein, I., Komisaruk, B. R., Goldstein, S. W., Kim, N. N., Hartzell-Cushanick, R., Uloko, M., & Yee, A. (2023). Lumbar endoscopic spine surgery for persistent genital arousal disorder/genitopelvic dysesthesia resulting from lumbosacral annular tear–induced sacral radiculopathy. The Journal of Sexual Medicine, 20(2), 210–223. https://doi.org/10.1093/jsxmed/qdac017
 

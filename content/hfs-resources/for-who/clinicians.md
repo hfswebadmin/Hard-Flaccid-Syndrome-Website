@@ -14,5 +14,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
-_*work in progress*_
+## Diagnostics
+
+At the moment, there is no official protocol for diagnosing Hard Flaccid Syndrome (HFS) in a clinical setting. The overwhelming majority of patients diagnose themselves after googling their symptoms online.
+
+On physical examination, a person with HFS will have a shrunken, firm flaccid penis. You may also notice discoloration, prominent veins or ripples in the skin on the shaft.
 

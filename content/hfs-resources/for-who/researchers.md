@@ -46,7 +46,7 @@ seo:
 
 - Reed-Maldonado, A. B., & Lue, T. F. (2016). Syndrome of erectile dysfunction in young men. Translational Andrology and Urology, 5(3), 438–443. https://doi.org/10.21037/tau.2016.03.02
 
-### Literature relevant to HFS, though not explicilty about HFS
+### Literature relevant to HFS, though not explicitly about HFS
 
 - Allen, K., Wise, N., Frangos, E., & Komisaruk, B. (2020). Male urogenital system mapped onto the sensory cortex: Functional magnetic resonance imaging evidence. The Journal of Sexual Medicine, 17(4), 603–613. https://doi.org/10.1016/j.jsxm.2019.12.007
 

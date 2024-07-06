@@ -27,10 +27,11 @@
   url = "blog/news-and-updates/"
   weight = 20
 
-[[main]]
-  name = "Articles"
-  url = "blog/articles/"
-  weight = 30
+
+# [[main]]
+#  name = "Articles"
+#  url = "blog/articles/"
+#  weight = 30
 
 [[main]]
   name = "Resources"

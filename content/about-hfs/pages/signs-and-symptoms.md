@@ -43,5 +43,5 @@ Other signs and symptoms:
 
 ### Mental Health
 
-Due to the nature of the condition, many men will experience significant mental and emotional distress. Depression, anxiety and suicidal ideation are unfortunately very common disorders seen among those with HFS.
+Due to the nature of the condition, many men will experience significant mental and emotional distress. Patients frequently experience depression and anxiety due to the persistent and distressing symptoms of HFS, which can severely diminish their quality of life. For some, the emotional burden becomes overwhelming, contributing to suicidal ideation as they struggle to cope with the relentless stress and uncertainty surrounding their condition. The need for effective mental health support is critical to help these individuals manage the psychological impact of HFS.
 

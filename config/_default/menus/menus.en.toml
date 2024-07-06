@@ -77,7 +77,7 @@
 
 [[footer]]
   name = "Home"
-  url = "/Home/"
+  url = ""
   weight = 10
 
 # [[footer]]

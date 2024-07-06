@@ -37,7 +37,7 @@ img
 
 ![Goldstein's Hard Flaccid Syndrome Pathology Graphic](goldstein-pathology-graphic.png#center)
 
-<center><em>Figure 3 from "Hard Flaccid Syndrome Proposed to Be Secondary to Pathological Activation of a Pelvic/Pudendal-Hypogastric Reflex" by Goldstein et al. (reference number 1 below)</em></center>
+<center><em>Figure 3 from "Hard Flaccid Syndrome Proposed to Be Secondary to Pathological Activation of a Pelvic/Pudendal-Hypogastric Reflex" by Goldstein et al. (reference "1" below)</em></center>
 
 ### Region 1 Pathology
 
@@ -55,17 +55,17 @@ Region 2 pathology pertains to issues occurring in the pelvic/perineal area. In 
 
 Potential triggers include:
 
-- Blunt force trauma to the perineum acquired from activities such as horseback and bicycle riding
+- Blunt force trauma to the perineum acquired from engaging in activities such as horseback and bicycle riding
 
 ### Region 3 Pathology
 
 Region 3 pathology involves dysfunctions in the [cauda equina](https://en.wikipedia.org/wiki/Cauda_equina), a bundle of spinal nerves located at the lower end of the spinal cord. This region is critical for transmitting nerve signals between the lower body and the brain. Pathological activation in this area can result from [disc protrusions](https://en.wikipedia.org/wiki/Disc_protrusion), [tarlov cysts](https://en.wikipedia.org/wiki/Tarlov_cyst) or [annular tears](https://en.wikipedia.org/wiki/Spinal_disc_herniation) in the [lumbosacral region of the spine](https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=aa154160&lang=en-ca), which can compress or irritate the [cauda equina](https://en.wikipedia.org/wiki/Cauda_equina) nerves and bring about HFS.[[1]](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex)
 
-Though HFS patients that present with this pathology generally respond poorly to treatment, there have been many patients that have fully recovered from HFS following spine surgery.[[1]](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex)[[2]](https://www.youtube.com/watch?v=psBFjYBKxCk)
+Though HFS patients that present with this pathology generally respond poorly to treatment, there have been patients that have significantly improved and even recovered from HFS following spine surgery.[[1]](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex)[[2]](https://www.youtube.com/watch?v=psBFjYBKxCk)
 
 Potential triggers include:
 
-- [Sacral radiculopathy](https://www.uofmhealth.org/conditions-treatments/back-neck-spine/sciatica-lumbar-or-sacral-radiculopathy) from an [annular tears](https://en.wikipedia.org/wiki/Spinal_disc_herniation), [tarlov cysts](https://en.wikipedia.org/wiki/Tarlov_cyst), or both
+- [Sacral radiculopathy](https://www.uofmhealth.org/conditions-treatments/back-neck-spine/sciatica-lumbar-or-sacral-radiculopathy) from [annular tears](https://en.wikipedia.org/wiki/Spinal_disc_herniation), [tarlov cysts](https://en.wikipedia.org/wiki/Tarlov_cyst), or both
 
 ### Region 4 Pathology
 

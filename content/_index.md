@@ -1,7 +1,7 @@
 ---
-title: "Welcome to our website!"
+title: "Welcome to the Hard Flaccid Syndrome website!"
 description: ""
-lead: "Your leading source for everything hard flaccid."
+lead: "Here, you'll find the latest updates and information regarding this rare, poorly understood medical condition."
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false

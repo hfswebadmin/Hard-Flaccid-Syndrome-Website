@@ -18,7 +18,7 @@
 
 [[main]]
   name = "About HFS"
-  url = "docs/about-hfs/what-is-hard-flaccid-syndrome"
+  url = "about-hfs/pages/what-is-hard-flaccid-syndrome"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
@@ -39,7 +39,7 @@
 
 [[main]]
   name = "FAQ"
-  url = "faq"
+  url = "faq/frequently-asked-questions"
   weight = 50
 
 [[main]]

@@ -6,8 +6,8 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="docs/about-hfs/what-is-hard-flaccid-syndrome" role="button">About HFS</a>
-      
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/about-hfs/pages/what-is-hard-flaccid-syndrome" role="button">About HFS</a>
+
     </div>
   </div>
 </section>
@@ -20,6 +20,48 @@
   </div>
   {{ end -}}
   {{ if eq $.Site.Language.LanguageName "English" }}
+
+  <section class="section section-cards">
+    <div class="wrap container-lg" role="document">
+      <div class="content">
+
+
+<div class="row justify-content-center">
+  <div class="col-md-12 col-lg-9">
+    <h2 class="text-center">Latest in "News and Updates"</h2>
+    </div>
+</div>
+<div class="row justify-content-center">
+  <div class="col-lg-9">
+    <div class="card">
+        <div class="card-body">
+          <article>
+            <h2 class="h3"><a class="stretched-link text-body" href="/blog/news-and-updates/posts/">Inaugural Post: New Hard Flaccid Syndrome Website Has Officially Launched</a></h2>
+            <p>'Liftoff! We have liftoff of hardflaccidsyndrome.org -- paving the way for the future of HFS and beyond!'</p>
+            <p>
+  <small>June 28, 2024&nbsp;by&nbsp;<a class="stretched-link position-relative" href="/contributors/admin/">Admin</a><span class="stretched-link position-relative reading-time text-nowrap" title="Estimated reading time"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0"></path>
+        <path d="M12 7v5l3 3"></path>
+      </svg>1&nbsp;minute</span></small>
+</p>
+</article>
+        </div>
+      </div>
+    </div>
+</div>
+<div class="row justify-content-center">
+  <div class="col-md-12 col-lg-9">
+
+  </div>
+</div>
+
+
+      </div>
+    </div>
+  </section>
+
+  <!--
   <section class="section section-md section-features">
     <div class="container">
       <div class="row justify-content-center text-center">
@@ -41,9 +83,58 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>-->
   {{ end }}
+  <section class="section section-cards">
+    <div class="container">
+      <div class="row justify-content-center g-4">
+        <div class="col-lg-7">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-4">📄 Documentation that delights</h2>
+              <p class="card-text">Includes: Site navigation, search, internationalization, SEO, easy-to-read typography, code highlighting, dark mode and more.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-7">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-4">🚀 Powered by Hyas</h2>
+              <p class="card-text">Leverage the full power and performance of Hyas. Extend Doks with your favorite Hyas integrations and libraries.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-7">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-4">🌐 Deploy where you want</h2>
+              <p class="card-text">Ready to build and deploy your Doks site? Follow one of our guides to different deployment services.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-7">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-4">👊 Join our community</h2>
+              <p class="card-text">Get support, get involved, and join our community of Doks developers — it all happens on <a href="https://github.com/gethyas/doks/discussions">Discussions</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section section-md container-fluid bg-light">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-7">
+        <h2 class="mt-2">Start building with Doks today</h2>
+        <a class="btn btn-primary rounded-pill px-4 my-2" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get_started" }}</a>
+      </div>
+    </div>
+  </section>
+
+
 {{ end }}
+
 
 {{ define "sidebar-footer" }}
 {{ if site.Params.doks.sectionFooter -}}
@@ -57,3 +148,4 @@
 </section>
 {{ end -}}
 {{ end }}
+

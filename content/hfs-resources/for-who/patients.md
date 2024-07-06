@@ -14,5 +14,3 @@ seo:
   noindex: false # false (default) or true
 ---
 
-_*work in progress*_
-

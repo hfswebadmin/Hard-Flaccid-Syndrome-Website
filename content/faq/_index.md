@@ -1,5 +1,5 @@
 ---
-title: "About HFS"
+title: "FAQ"
 description: ""
 summary: ""
 draft: false
@@ -12,4 +12,3 @@ seo:
   noindex: false # false (default) or true
 ---
 
-_work in progress_

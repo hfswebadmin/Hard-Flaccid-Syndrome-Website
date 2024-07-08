@@ -30,6 +30,8 @@ Click [here]() to view the case reports we have gathered from several members of
 
 - Goldstein, I., Yee, A., & Komisaruk, B. (2023). [Hard Flaccid Syndrome Proposed to Be Secondary to Pathological Activation of a Pelvic/Pudendal-Hypogastric Reflex;](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex) AUA News (May 2023).
 
+- Gryzinski, G., Hammad, M. M., Alzweri, L., Azad, B., Barham, D., Lumbiganon, S., Serefoglu, E. C., & Yafi, F. (2024, June 19). [Hard-flaccid syndrome: A survey of sexual medicine practitioners’ knowledge and experience](https://www.nature.com/articles/s41443-024-00917-3). Nature News.
+
 - Gul, M., Fode, M., Urkmez, A., Capogrosso, P., Falcone, M., Sarikaya, S., Sokolakis, I., Morgado, A., Morozov, A., Albersen, M., Russo, G. I., & Serefoglu, E. C. (2024). [A clinical guide to rare male sexual disorders.](https://doi.org/10.1038/s41585-023-00803-5) Nature Reviews Urology, 21(1), 35–49.
 
 - Gul, M., Huynh, L. M., El-Khatib, F. M., Yafi, F. A., & Serefoglu, E. C. (2019). [A qualitative analysis of internet forum discussions on hard flaccid syndrome.](https://doi.org/10.1038/s41443-019-0151-x) International Journal of Impotence Research, 32(5), 503–509.

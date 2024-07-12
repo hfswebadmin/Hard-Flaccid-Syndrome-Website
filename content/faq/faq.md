@@ -54,11 +54,12 @@ Though people with HFS may also present with pelvic floor dysfunction, with what
 
 Since many with HFS will experience chronic pain in or around the pelvis, CPPS can be a biproduct of HFS.
 
+<!--
 ### Is HFS a manifestation of pudendal neurologia, entrapment or compression?
 
 It is unclear at this time. More research is required.
 
-<!--
+
 ### Can HFS be caused by the use of SSRIs, Finasteride, or other prescription drugs?
 
 The current state of knowledge suggests that this is unlikely to be a direct cause of HFS.

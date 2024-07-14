@@ -26,7 +26,7 @@ PDE5 inhibitors, such as sildenafil (Viagra) and tadalafil (Cialis), have shown 
 
 ### Alpha Blockers
 
-Alpha blockers, such as tamsulosin (Flomax) and doxazosin (Cardura), have been found to help some individuals with HFS by relaxing smooth muscles in the bladder neck, prostate, and penis. According to the [study published in AUANews](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex), alpha blockers may alleviate symptoms by disrupting abnormal reflex pathways and downregulating sympathetic triggers. The effectiveness of alpha blockers can vary among patients, and they are not considered a definitive treatment for the condition.[[1]](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex)
+Alpha blockers, such as tamsulosin (Flomax) and doxazosin (Cardura), have been found to help some individuals with HFS by relaxing smooth muscles in the bladder neck, prostate, and penis. According to the [study published in AUANews](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex), alpha blockers may alleviate symptoms by disrupting abnormal reflex pathways and downregulating sympathetic triggers.[[1]](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex) The effectiveness of alpha blockers can vary among patients, and they are not considered a definitive treatment for the condition.
 
 ### Neural Inhibitory Agents
 

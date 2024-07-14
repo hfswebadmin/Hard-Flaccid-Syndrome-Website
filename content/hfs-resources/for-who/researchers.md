@@ -24,8 +24,6 @@ Click [here]() to view the case reports we have gathered from several members of
 
 - Billis, E., Kontogiannis, S., Tsounakos, S., Konstantinidou, E., & Giannitsas, K. (2023). [Hard Flaccid Syndrome: A Biopsychosocial Management Approach with Emphasis on Pain Management, Exercise Therapy, and Education.](https://doi.org/10.3390/healthcare1120279) Healthcare (Basel, Switzerland), 11(20), 2793.
 
-- Giammusso, B., Gattuso, U., Vanaclocha, V., Saiz-Sapena, N., Falsaperla, M., Burrello, M., & Motta, M. (2005). [Percutaneous lumbar sympathectomy in the treatment of erectile dysfunction secondary to cavernous adrenergic hypertone: initial results of an original technique.](https://pubmed.ncbi.nlm.nih.gov/15906781/) Archivio italiano di urologia, andrologia, 77(1), 5–9.
-
 - Goldstein, I., Komisaruk, B., Goldstein, S., & Yee, A. (2024). [(149) prevalence of lumbosacral annular tears in individuals with hard flaccid syndrome.](https://doi.org/10.1093/jsxmed/qdae001.140) The Journal of Sexual Medicine, 21(Supplement_1).
 
 - Goldstein, I., Yee, A., & Komisaruk, B. (2023). [Hard Flaccid Syndrome Proposed to Be Secondary to Pathological Activation of a Pelvic/Pudendal-Hypogastric Reflex;](https://auanews.net/issues/articles/2023/may-2023/hard-flaccid-syndrome-proposed-to-be-secondary-to-pathological-activation-of-a-pelvic/pudendal-hypogastric-reflex) AUA News (May 2023).
@@ -60,9 +58,11 @@ Click [here]() to view the case reports we have gathered from several members of
 
 - de Groat, W. C., & Lalley, P. M. (1972). [Reflex firing in the lumbar sympathetic outflow to activation of vesical afferent fibres.](https://doi.org/10.1113/jphysiol.1972.sp009985) The Journal of Physiology, 226(2), 289–309.
 
-- Goldstein, I., Komisaruk, B. R., Pukall, C. F., Kim, N. N., Goldstein, A. T., Goldstein, S. W., Hartzell-Cushanick, R., Kellogg-Spadt, S., Kim, C. W., Jackowich, R. A., Parish, S. J., Patterson, A., Peters, K. M., & Pfaus, J. G. (2021). [International Society for the Study of Women’s Sexual Health (ISSWSH) review of Epidemiology and pathophysiology, and a consensus nomenclature and process of care for the management of persistent genital arousal disorder/genito-pelvic dysesthesia (PGAD/GPD).](https://doi.org/10.1016/j.jsxm.2021.01.172) The Journal of Sexual Medicine, 18(4), 665–697.
+- Giammusso, B., Gattuso, U., Vanaclocha, V., Saiz-Sapena, N., Falsaperla, M., Burrello, M., & Motta, M. (2005). [Percutaneous lumbar sympathectomy in the treatment of erectile dysfunction secondary to cavernous adrenergic hypertone: initial results of an original technique.](https://pubmed.ncbi.nlm.nih.gov/15906781/) Archivio italiano di urologia, andrologia, 77(1), 5–9.
 
 - Glina, S., Shindel, A., Eardley, I., & Ghanem, H. (2008). [Cavernosal alpha-blockade: A new technique for investigating and treating erectile impotence by GS brindley.](https://doi.org/10.1111/j.1743-6109.2008.00954.x) The Journal of Sexual Medicine, 5(8), 1791–1794.
+
+- Goldstein, I., Komisaruk, B. R., Pukall, C. F., Kim, N. N., Goldstein, A. T., Goldstein, S. W., Hartzell-Cushanick, R., Kellogg-Spadt, S., Kim, C. W., Jackowich, R. A., Parish, S. J., Patterson, A., Peters, K. M., & Pfaus, J. G. (2021). [International Society for the Study of Women’s Sexual Health (ISSWSH) review of Epidemiology and pathophysiology, and a consensus nomenclature and process of care for the management of persistent genital arousal disorder/genito-pelvic dysesthesia (PGAD/GPD).](https://doi.org/10.1016/j.jsxm.2021.01.172) The Journal of Sexual Medicine, 18(4), 665–697.
 
 - Kaplan, S. A., Reis, R. B., Kohn, I. J., Shabsigh, R., & Te, A. E. (1998). [Combination therapy using oral alpha-blockers and intracavernosal injection in men with erectile dysfunction.](<https://doi.org/10.1016/s0090-4295(98)00388-4>) Urology, 52(5), 739–743.
 

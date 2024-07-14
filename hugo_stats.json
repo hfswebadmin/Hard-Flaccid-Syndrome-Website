@@ -247,6 +247,7 @@
     ],
     "ids": [
       "TableOfContents",
+      "alpha-blockers",
       "buttonColorMode",
       "can-someone-with-hfs-also-have-peyronies-disease",
       "case-reports",
@@ -254,6 +255,7 @@
       "existing-scientific-literature",
       "h-rh-i-0",
       "has-anyone-been-cured-of-hfs",
+      "heading",
       "how-do-i-know-if-i-have-hard-flaccid-syndrome-hfs",
       "how-long-will-i-have-hfs-and-will-it-go-away-on-its-own",
       "is-hfs-a-manifestation-of-chronic-pelvic-pain-syndrome-cpps",
@@ -262,12 +264,14 @@
       "is-hfs-a-manifestation-of-pudendal-neurologia-entrapment-or-compression",
       "literature-relevant-to-hfs-though-not-explicitly-about-hfs",
       "mental-health",
+      "neural-inhibitory-agents",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
       "offcanvasNavSectionLabel",
       "other-causes",
       "our-mission",
+      "pde5-inhibitors",
       "query",
       "recent-developments",
       "references",
@@ -286,6 +290,8 @@
       "socialMenu",
       "the-leading-hypothesis",
       "toc",
+      "treatment-options",
+      "treatment-options-to-consider",
       "what-causes-hfs"
     ]
   }

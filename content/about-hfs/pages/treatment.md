@@ -18,7 +18,7 @@ Currently, there is no standardized treatment for Hard Flaccid Syndrome (HFS). T
 
 ## Treatment Options to Consider
 
-While no standardized treatment exists for HFS, several potential options may provide some relief for patients. Below are some approaches that have been explored.
+While no standardized treatment exists for HFS, several potential options may provide some relief for patients. Below are some approaches that have been explored. Always seek the advice of a physician or other qualified healthcare provider before attempting any of the following treatments.
 
 ### PDE5 Inhibitors
 

@@ -20,7 +20,7 @@ Hard Flaccid Syndrome (HFS) is a relatively rare condition effecting the male ge
 
 ![Normal Flaccid Penis vs Hard Flaccid Penis](AU-AUAN230080F001.png#center)
 
-<center><em>Figure 1 from "Hard Flaccid Syndrome Proposed to Be Secondary to Pathological Activation of a Pelvic/Pudendal-Hypogastric Reflex" by Goldstein et al. (reference "1" below) comparing a normal flaccid penis to a penis in the HFS state.</em></center>
+<center><em>Figure 1 from "Hard Flaccid Syndrome Proposed to Be Secondary to Pathological Activation of a Pelvic/Pudendal-Hypogastric Reflex" by Goldstein et al. (reference "1" below) comparing a patient's baseline flaccid penis to when it is in the HFS state.</em></center>
 
 ---
 

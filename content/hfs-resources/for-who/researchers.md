@@ -16,7 +16,7 @@ seo:
 
 ## Case Reports
 
-Click [here]() to view the case reports we have gathered from several members of the HFS online community. All are self-reported and published with the consent of those involved.
+Click [here](/case-reports/report-number/1) to view the case reports we have gathered from several members of the HFS online community. All are self-reported and published with the consent of those involved.
 
 ## Existing Scientific Literature
 

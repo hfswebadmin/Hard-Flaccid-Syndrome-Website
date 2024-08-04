@@ -14,7 +14,7 @@ seo:
   noindex: false # false (default) or true
 ---
 
-The most indisputable, tell-tale sign and symptom of Hard Flaccid Syndrome (HFS) is a penis that remains in a firm, semi-rigid state in the absence of sexual desire or arousal. Men with HFS will describe their flaccid penises as being firm to the touch, rubbery, wrinkly, shrunken and retracted; some refer to this as "turtling," comparing the behavior of their flaccid penises to that of a turtle's head as it backs into its shell. This symptom is often made worse when standing.
+The most indisputable, tell-tale sign and symptom of Hard Flaccid Syndrome (HFS) is **a penis that remains in a firm, semi-rigid state in the absence of sexual desire or arousal.** Men with HFS will describe their flaccid penises as being firm to the touch, rubbery, wrinkly, shrunken and retracted; some refer to this as "turtling," comparing the behavior of their flaccid penises to that of a turtle's head as it backs into its shell. This symptom is often made worse when standing.
 
 Other signs and symptoms:
 
@@ -34,7 +34,6 @@ Other signs and symptoms:
 - Soft glans
 - "Long Flaccid," where the penis is more extended than it should be and either feels firm or like a balloon filled with water
 - Pelvic floor dysfunction
-- Low libido
 - Tilt of the penis to one side while flaccid, erect or both
 - Rotation of the penis
 - "Golf ball" feeling in perineum

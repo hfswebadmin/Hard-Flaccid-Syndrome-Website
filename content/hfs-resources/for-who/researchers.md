@@ -50,6 +50,8 @@ Click [here](/case-reports/report-number/1) to view the case reports we have gat
 
 - Reed-Maldonado, A. B., & Lue, T. F. (2016). [Syndrome of erectile dysfunction in young men.](https://doi.org/10.21037/tau.2016.03.02) Translational Andrology and Urology, 5(3), 438–443.
 
+- Yazar, R. O., Hammad, M. A., Barham, D. W., Azad, B., & Yafi, F. A. (2024). [Successful treatment of HARD FLACCID syndrome with multimodal therapy: A case report study](https://doi.org/10.1038/s41443-024-00955-x). International Journal of Impotence Research.
+
 ### Literature relevant to HFS, though not explicitly about HFS
 
 - Allen, K., Wise, N., Frangos, E., & Komisaruk, B. (2020). [Male urogenital system mapped onto the sensory cortex: Functional magnetic resonance imaging evidence.](https://doi.org/10.1016/j.jsxm.2019.12.007) The Journal of Sexual Medicine, 17(4), 603–613.

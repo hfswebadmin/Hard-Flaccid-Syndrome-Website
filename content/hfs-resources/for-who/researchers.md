@@ -1,6 +1,6 @@
 ---
 title: "For Researchers"
-description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
+description: ""
 summary: ""
 date: 2023-09-07T16:04:48+02:00
 lastmod: 2023-09-07T16:04:48+02:00
@@ -42,8 +42,6 @@ Click [here](/case-reports/report-number/1) to view the case reports we have gat
 
 - Nico, E., Rubin, R., & Trosch, L. (2022). [203 successful treatment of hard flaccid syndrome: A case report.](https://doi.org/10.1016/j.jsxm.2022.01.218) The Journal of Sexual Medicine, 19(Supplement_1).
 
-- Niedenfuehr, J., & Stevens, D. M. (2023). [A scoping review: sexual activity and functioning before and after surgery for femoroacetabular impingement (FAI), labral tears, and hip dysplasia.](https://doi.org/10.1093/sxmrev/qead036) Sexual Medicine Reviews, 11(4), 349–358.
-
 - Niedenfuehr, J., & Stevens, D. M. (2024). [Hard flaccid syndrome symptoms, comorbidities, and self-reported efficacy and satisfaction of treatments: a cross-sectional survey.](https://doi.org/10.1038/s41443-024-00853-2) International journal of impotence research, 10.1038/s41443-024-00853-2. Advance online publication.
 
 - Ocampo Flórez, G. M., Carvajal Obando, A., & García-Perdomo, H. A. (2022). [Association between partial thrombosis of the corpus cavernosum, partial priapism, and hard flaccid syndrome: A scoping review.](https://doi.org/10.1111/andr.13190) Andrology, 10(5), 844–851.
@@ -70,3 +68,4 @@ Click [here](/case-reports/report-number/1) to view the case reports we have gat
 
 - Kim, C. W., Goldstein, I., Komisaruk, B. R., Goldstein, S. W., Kim, N. N., Hartzell-Cushanick, R., Uloko, M., & Yee, A. (2023). [Lumbar endoscopic spine surgery for persistent genital arousal disorder/genitopelvic dysesthesia resulting from lumbosacral annular tear–induced sacral radiculopathy.](https://doi.org/10.1093/jsxmed/qdac017) The Journal of Sexual Medicine, 20(2), 210–223.
 
+- Niedenfuehr, J., & Stevens, D. M. (2023). [A scoping review: sexual activity and functioning before and after surgery for femoroacetabular impingement (FAI), labral tears, and hip dysplasia.](https://doi.org/10.1093/sxmrev/qead036) Sexual Medicine Reviews, 11(4), 349–358.

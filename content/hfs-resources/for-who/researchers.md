@@ -69,3 +69,5 @@ Click [here](/case-reports/report-number/1) to view the case reports we have gat
 - Kim, C. W., Goldstein, I., Komisaruk, B. R., Goldstein, S. W., Kim, N. N., Hartzell-Cushanick, R., Uloko, M., & Yee, A. (2023). [Lumbar endoscopic spine surgery for persistent genital arousal disorder/genitopelvic dysesthesia resulting from lumbosacral annular tear–induced sacral radiculopathy.](https://doi.org/10.1093/jsxmed/qdac017) The Journal of Sexual Medicine, 20(2), 210–223.
 
 - Niedenfuehr, J., & Stevens, D. M. (2023). [A scoping review: sexual activity and functioning before and after surgery for femoroacetabular impingement (FAI), labral tears, and hip dysplasia.](https://doi.org/10.1093/sxmrev/qead036) Sexual Medicine Reviews, 11(4), 349–358.
+
+- Xie, W., Strong, J. A., Li, H., & Zhang, J. M. (2007). [Sympathetic sprouting near sensory neurons after nerve injury occurs preferentially on spontaneously active cells and is reduced by early nerve block](https://doi.org/10.1152/jn.00899.2006). Journal of neurophysiology, 97(1), 492–502.

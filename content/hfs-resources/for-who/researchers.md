@@ -64,6 +64,8 @@ Click [here](/case-reports/report-number/1) to view the case reports we have gat
 
 - Goldstein, I., Komisaruk, B. R., Pukall, C. F., Kim, N. N., Goldstein, A. T., Goldstein, S. W., Hartzell-Cushanick, R., Kellogg-Spadt, S., Kim, C. W., Jackowich, R. A., Parish, S. J., Patterson, A., Peters, K. M., & Pfaus, J. G. (2021). [International Society for the Study of Women’s Sexual Health (ISSWSH) review of Epidemiology and pathophysiology, and a consensus nomenclature and process of care for the management of persistent genital arousal disorder/genito-pelvic dysesthesia (PGAD/GPD).](https://doi.org/10.1016/j.jsxm.2021.01.172) The Journal of Sexual Medicine, 18(4), 665–697.
 
+- Guagnini, F., Ferazzini, M., Grasso, M., Blanco, S., & Croci, T. (2012). [Erectile properties of the Rho-kinase inhibitor SAR407899 in diabetic animals and human isolated corpora cavernosa](https://doi.org/10.1186/1479-5876-10-59). Journal of translational medicine, 10, 59.
+
 - Kaplan, S. A., Reis, R. B., Kohn, I. J., Shabsigh, R., & Te, A. E. (1998). [Combination therapy using oral alpha-blockers and intracavernosal injection in men with erectile dysfunction.](<https://doi.org/10.1016/s0090-4295(98)00388-4>) Urology, 52(5), 739–743.
 
 - Kim, C. W., Goldstein, I., Komisaruk, B. R., Goldstein, S. W., Kim, N. N., Hartzell-Cushanick, R., Uloko, M., & Yee, A. (2023). [Lumbar endoscopic spine surgery for persistent genital arousal disorder/genitopelvic dysesthesia resulting from lumbosacral annular tear–induced sacral radiculopathy.](https://doi.org/10.1093/jsxmed/qdac017) The Journal of Sexual Medicine, 20(2), 210–223.

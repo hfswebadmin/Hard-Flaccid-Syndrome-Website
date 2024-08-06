@@ -56,7 +56,7 @@ Since many with HFS will experience chronic pain in or around the pelvis, CPPS c
 
 ### Is HFS a manifestation of pudendal neurologia, entrapment or compression?
 
-Though concrete data does not currently exist, many in the community have undergone pudendal decompression surgeries and pudendal nerve block procedures. Unfortunately, these have shown limited effectiveness in treating HFS, if at all. Patients often continue to experience persistent symptoms despite undergoing these treatments, suggesting that the underlying pathology of HFS extends beyond a simple compression and/or issue along the pudendal nerve. It is also quite possible that the pudendal nerve is not effected. Regardless, more research is required.
+Though concrete data does not currently exist, many in the community have undergone pudendal decompression surgeries and pudendal nerve block procedures. Unfortunately, these have shown limited effectiveness in treating HFS, if at all. Patients often continue to experience persistent symptoms despite undergoing these treatments, suggesting that the underlying pathology of HFS extends beyond a simple compression and/or issue along the pudendal nerve. Regardless, more research is required.
 
 ### Can HFS be caused by the use of SSRIs, Finasteride, or other prescription drugs?
 

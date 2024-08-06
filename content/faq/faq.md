@@ -54,27 +54,25 @@ Though people with HFS may also present with pelvic floor dysfunction, with what
 
 Since many with HFS will experience chronic pain in or around the pelvis, CPPS can be a biproduct of HFS.
 
-<!--
 ### Is HFS a manifestation of pudendal neurologia, entrapment or compression?
 
-It is unclear at this time. More research is required.
-
+Though concrete data does not currently exist, many in the community have undergone pudendal decompression surgeries and pudendal nerve block procedures. Unfortunately, these have shown limited effectiveness in treating HFS, if at all. Patients often continue to experience persistent symptoms despite undergoing these treatments, suggesting that the underlying pathology of HFS extends beyond a simple mechanical nerve compression and/or issue along the pudendal nerve. It is also quite possible that the pudendal nerve is not effected. Regardless, more research is required.
 
 ### Can HFS be caused by the use of SSRIs, Finasteride, or other prescription drugs?
 
-The current state of knowledge suggests that this is unlikely to be a direct cause of HFS.
+The current state of knowledge suggests that this is unlikely to be a direct cause of HFS, though more research is required.
 
 ### Can HFS be caused by hormone imbalances?
 
-The current state of knowledge suggests that this is unlikely to be a direct cause of HFS.
+The current state of knowledge suggests that this is unlikely to be a direct cause of HFS, though more research is required.
 
 ### Can HFS be caused by a poor diet, sleep patterns or vitamin deficiencies?
 
-The current state of knowledge suggests that this is unlikely to be a direct cause of HFS.
+The current state of knowledge suggests that this is unlikely to be a direct cause of HFS, though more research is required.
 
 ### Can HFS be caused by postural issues?
 
-The current state of knowledge suggests that this is unlikely to be a direct cause of HFS.
+The current state of knowledge suggests that this is unlikely to be a direct cause of HFS, though more research is required.
 
 ### Can HFS be caused by stress, anxiety or other mental conditions?
 
@@ -83,5 +81,3 @@ The current state of knowledge suggests that this is unlikely to be a direct cau
 ### Can HFS be caused by anything else?
 
 The cause or causes of HFS are not fully understood. Due to the nature of the condition and the current state of knowledge, more research is required.
--->
-

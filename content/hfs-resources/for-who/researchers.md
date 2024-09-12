@@ -14,10 +14,6 @@ seo:
   noindex: false # false (default) or true
 ---
 
-## Case Reports
-
-Click [here](/case-reports/report-number/1) to view the case reports we have gathered from several members of the HFS online community. All are self-reported and published with the consent of those involved.
-
 ## Existing Scientific Literature
 
 - Abdessater, M., Kanbar, A., Akakpo, W., & Beley, S. (2020). [Hard flaccid syndrome: State of current knowledge.](https://doi.org/10.1186/s12610-020-00105-5) Basic and Clinical Andrology, 30(1).

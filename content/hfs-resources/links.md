@@ -1,4 +1,4 @@
-## For Those Interested in Learning More About "Hard Flaccid Syndrome"
+# For Those Interested in Learning More About "Hard Flaccid Syndrome"
 
 We’ve compiled a list of essential links and resources below that provide important information about the condition, those affected by it, and the current state of research and understanding.
 

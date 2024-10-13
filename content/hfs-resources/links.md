@@ -11,7 +11,7 @@ Since its publication in May of 2023, the "[Goldstein Article](https://auanews.n
 
 - "UroChannel" Interview Series: [Part 1](https://www.youtube.com/watch?v=a2xcIdoRllo), [Part 2](https://www.youtube.com/watch?v=psBFjYBKxCk)
 - "The Muslim Sex Podcast" Interview: [16:15-18:15](https://youtu.be/xUMGz8PjYdE?feature=shared&t=974)
-- "You Are Not Broken" Podcast: [41:12-45:43](https://kellycaspersonmd.com/goat-dr-irwin-goldstein/)
+- "You Are Not Broken" Podcast Interview: [41:12-45:43](https://kellycaspersonmd.com/goat-dr-irwin-goldstein/)
 
 ### Other Important Resources
 
